@@ -1,4 +1,4 @@
- # X-Team 67
+ # X-Team 67 README
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
@@ -11,6 +11,7 @@
    * When did you complete this exercise? 
    3/2 at 4pm
    * How long did it take your team to complete this exercise? 
+   Half an hour
 
 ## Table of Contents
 
