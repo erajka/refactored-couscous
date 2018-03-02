@@ -13,6 +13,7 @@ We want our code to be very readable and consistent
  * Space before and after "=": `int x = 0`
  * Parameters in camelcase `method(int aParam, String aSecondParam)`
  * Four spaces = tab
+ * Upper case connected by underscores for constants `public static final int INT_X = 10`
 
 
 ## Spacing and examples
