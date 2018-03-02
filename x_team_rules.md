@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-People will volunteer on certain tasks and the rest we will decide based on who is left. 
+People will volunteer on certain tasks and the rest we will decide evenly based on who is left. 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
