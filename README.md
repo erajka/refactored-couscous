@@ -4,7 +4,7 @@
 2. Answer these questions
    * What are the GitHub usernames of your team members?
        * squ27
-       * GitHub username 2:
+       * samr28
        * rawfert
        * erajka
        * pongmorrakot
