@@ -17,11 +17,13 @@ We have a group message and we will communicate when we have finished (or forgot
 
 
 ## How will will communicate difficulties with a task assigned to us
-Tell the group message and ask for help from someone who better understands.
+Tell the group message and ask for help from someone who better understands. If one person still has issues,
+then reassign the task to someone who can do it.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Keep close contact and create a very open environment so people feel comfortable asking for help. We want to be finsihed with the project before the deadline approaches.
+Keep close contact and create a very open environment so people feel comfortable asking for help. 
+We want to be finished with the project before the deadline approaches.
 
 
 
