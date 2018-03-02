@@ -1,4 +1,4 @@
-# super-octo-system
+ # super-octo-system
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
@@ -6,7 +6,7 @@
        * GitHub username 1:
        * GitHub username 2:
        * GitHub username 3:
-       * GitHub username 4:
+       * erajka
        * pongmorrakot
    * When did you complete this exercise? 
    * How long did it take your team to complete this exercise? 
