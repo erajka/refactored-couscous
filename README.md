@@ -9,9 +9,9 @@
        * erajka
        * pongmorrakot
    * When did you complete this exercise? 
-   3/2 at 4pm
+       * 3/2 at 4pm
    * How long did it take your team to complete this exercise? 
-   Half an hour
+       * Half an hour
 
 ## Table of Contents
 
