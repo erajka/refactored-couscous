@@ -1,10 +1,10 @@
-# X-Team NN Style Guide
+# X-Team 67 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We want our code to be very readable and consistent
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+ using camel case for variables, classes and uppercase for final variables, using variable names that show what they are representing instead of just a random letter. 
 
 ### Examples
 * interfaces
@@ -19,7 +19,10 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+We use javadoc for all public and private methods and constructors.
+We will use in-line comments on fields by putting "// " below the line.
+Opening bracket will be with the header(declaration) and the closing bracket will be on its own line for loops/if statements/ switch..
+
 
 ### Examples
 
