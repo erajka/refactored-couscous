@@ -1,4 +1,4 @@
- # super-octo-system
+ # X-Team 67
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions
@@ -9,6 +9,7 @@
        * erajka
        * pongmorrakot
    * When did you complete this exercise? 
+   3/2 at 4pm
    * How long did it take your team to complete this exercise? 
 
 ## Table of Contents
