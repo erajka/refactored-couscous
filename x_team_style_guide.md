@@ -5,6 +5,10 @@ We want our code to be very readable and consistent
 ## Naming conventions
 
  using camel case for variables, classes and uppercase for final variables, using variable names that show what they are representing instead of just a random letter. 
+examples:
+int numOfStudents;
+final int TABLESIZE;
+public String toString();
 
 ### Examples
 * interfaces
@@ -19,10 +23,21 @@ We want our code to be very readable and consistent
 
 ## Commenting style for public and private members of a class or interface:
 
-We use javadoc for all public and private methods and constructors.
-We will use in-line comments on fields by putting "// " below the line.
-Opening bracket will be with the header(declaration) and the closing bracket will be on its own line for loops/if statements/ switch..
+We use javadoc for all public and private methods and constructors. 
+example: 
+/**
+ * 
+ * @param
+ * @return
+ */
 
+We will use in-line comments on fields by putting "// " below the line.
+
+Opening bracket will be with the header(declaration) and the closing bracket will be on its own line for loops/if statements/ switch..
+example:
+newClass() {
+ ....
+}
 
 ### Examples
 
