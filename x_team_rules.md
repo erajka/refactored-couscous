@@ -18,7 +18,7 @@ We have a group message and we will communicate when we have finished (or forgot
 
 ## How will will communicate difficulties with a task assigned to us
 Tell the group message and ask for help from someone who better understands. If one person still has issues,
-then reassign the task to someone who can do it.
+then reassign the task to someone who can better do it.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
