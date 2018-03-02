@@ -6,8 +6,8 @@ We want our code to be very readable and consistent
 
  using camel case for variables, classes and uppercase for final variables, using variable names that show what they are representing instead of just a random letter.
 
- * Camelcase for variables and methods `int numOfStudents`, `public String toString()`
- * Camelcaps for classes `SomeClass`
+ * CamelCase for variables and methods `int numOfStudents`, `public String toString()`
+ * CamelCaps for classes `SomeClass`
  * Uppercase with underscores for final/const variables `final int TABLE_SIZE`
  * Descriptive variable names, no "magic numbers"
  * Space before and after "=": `int x = 0`
